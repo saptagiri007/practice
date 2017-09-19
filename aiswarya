@@ -1,0 +1,8 @@
+this is test file for samantha
+this is the second line
+<<<<<<< HEAD:samantha
+This is my whish
+=======
+this is the third line
+OMG this test4
+>>>>>>> 8b4c741a6f91ed99a3a2e61a4709c62fb0fa5ae4:aiswarya
